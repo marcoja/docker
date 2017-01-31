@@ -1,0 +1,7 @@
+1 create ssh on master
+    ssh-keygen -t rsa -C "mjasso@itexico.net"
+
+2 install ssh on both nodes
+    ~/.ssh/authorized_keys
+
+2.- install jenkins on master server 
